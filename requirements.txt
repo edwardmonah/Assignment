@@ -2,3 +2,6 @@ pandas==1.1.4
 matplotlib==3.3.3
 ipywidgets==7.5.1
 IPython==7.19.0
+uk_covid19
+voila
+
